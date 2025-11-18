@@ -113,7 +113,7 @@
 
 ## 📫 Contact
 * **Email:** sungsuhyun12@gmail.com
-* **GitHub:** https://github.com/(본인 깃허브 ID)
+* **GitHub:** https://github.com/sshikut
 
 <br>
 <p align="center">
