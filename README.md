@@ -59,8 +59,8 @@
 <sub>(프로젝트 명을 클릭하면 YouTube 영상으로 이동합니다.)</sub>
 
 ### 1. 교수님의 체크메이트 / Exit-8 Like Game
-* **기간:** 2025.08 ~ 2025.10 (**4인 개발**)
-* **설명:** 학교 강의실의 이상 현상을 감지하고 탈출하는 8번 출구 장르 게임입니다.
+* **기간:** 2025.08 ~ 2025.10 (**4인 개발** / **대학 졸업작품**)
+* **설명:** 학교의 이상 현상을 감지하고 탈출하는 8번 출구 장르 게임입니다.
 * **담당 역할 (게임 시스템 프로그래밍):**
     * RDSS(Random Default Situation System): 단조로운 틀린 그림 찾기 형식을 탈피하기 위해, 정상 상황(Default) 자체가 랜덤으로 결정되는 가변형 루프 시스템 기획 및 구현
     * 확장성 있는 상호작용 시스템: Raycast와 `Interface`(IInteractable)를 활용하여 전등, 문, 사물 등 다양한 오브젝트와의 상호작용 로직을 모듈화하여 구현
@@ -82,7 +82,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sshikut&repo=Project_Yeoru&theme=radical)](https://github.com/sshikut/Project_Yeoru)
 
 ### 3. Orbit / Multiplayer Casual Game
-* **기간:** 2025.03 ~ 2025.08 (4인 개발)
+* **기간:** 2025.03 ~ 2025.08 (4인 개발 / 대학 프로젝트)
 * **설명:** Unity Netcode 기반의 멀티플레이어 캐주얼 게임입니다.
 * **담당 역할 (네트워크 총괄):**
     * `Unity Netcode`를 기반으로 **전체 네트워크 구조 설계 및 구현**
@@ -92,7 +92,7 @@
 * **[➡️ 플레이 영상 (Click)](https://www.youtube.com/watch?v=oSlnyW4oz1k&t)**
   
 ### 4. Redemption / Horror Game
-* **기간:** 2024.09 ~ 2024.11 (5인 개발)
+* **기간:** 2024.09 ~ 2024.11 (5인 개발 / 대학 프로젝트)
 * **설명:** 타임라인 연출과 퍼즐 요소를 결합한 공포 탈출 게임입니다.
 * **담당 역할 (게임 기능 프로그래밍):**
     * Keypad, Keycard 등 각종 퍼즐 및 아이템 사용 로직 구현
@@ -102,7 +102,7 @@
 * **[➡️ 플레이 영상 (Click)](https://www.youtube.com/watch?v=J7Bcpf0PbKc)**
 
 ### 5. Java 2P Shooting Game
-* **기간:** 2024.06 (6인 개발)
+* **기간:** 2024.06 (6인 개발 / 대학 프로젝트)
 * **설명:** Java 소켓 통신을 활용한 2인용 슈팅 게임입니다.
 * **담당 역할 (네트워크 프로그래밍):**
     * `Java 소켓 프로그래밍`을 활용한 **서버-클라이언트 간 실시간 통신 구현**
