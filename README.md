@@ -1,11 +1,4 @@
 <h1 align="center">
-  안녕하세요!
-  <br>
-  <a href="https://github.com/sungsuhyun12" target="_blank">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  </a>
-  게이머의 경험을 코드로 연결하는 
-  <br>
   게임 네트워크 프로그래머 성수현입니다.
 </h1>
 
